@@ -15,4 +15,6 @@ Simple step-by-step description:
 * I then constructed Pivot Tables for the different subgroups (Everyone, Gender, and Race) I wanted to find with the data, taking the data for each individual city out from the mass data and finding averages
 * After this, I created graphs from both data to compare
 * I used Pivot Tables, chart generation, and basic calculations for this project
-Link to Full Data Sheet (too large): https://drive.google.com/open?id=1lfRlNJd3JjdU_HvhXSrH0titgZWgxR5p
+
+
+- Link to Full Data Sheet (too large): https://drive.google.com/open?id=1lfRlNJd3JjdU_HvhXSrH0titgZWgxR5p
