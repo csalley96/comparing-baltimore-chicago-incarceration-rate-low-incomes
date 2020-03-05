@@ -13,7 +13,7 @@ Brief Description: For this project I looked at incarceration rates for children
 ![](AllRaces.PNG)
 
 
-Later, this same analysis was done in Python, and the same findings were discovered again. After using both Excel and Python, Pivot Tables were easier to construct in Excel. In Python, it appears more difficult to separate each column by city. Python utlimately was just not as helpful for my particular dataset in this project and added additional steps that made me still use Excel for some steps. The graphs were easy to generate, however, using this software. Some visualizations formed by plotly are below: 
+Later, this same analysis was done in Python, and the same findings were discovered again. After using both Excel and Python, Pivot Tables were easier to construct in Excel. In Python, it appears more difficult to separate each column by city. Python utlimately was just not as helpful for my particular dataset for this project and added additional steps that made me still use Excel for certain elements. The graphs were easy to generate, however, using this software. Some visualizations formed by plotly are below: 
 
 
 ![](IR%20by%20City.png)
