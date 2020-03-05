@@ -10,6 +10,8 @@ Brief Description: For this project I looked at incarceration rates for children
 * On average for both data about Baltimore, White people were the second most incarcerated population on average. However, for Chicago the data from https://www.opportunityatlas.org/ said White people were the second highest, while the data from https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing said hispanics were the second highest in Chicago
 
 Later, this same analysis was done in Python, and the same findings were discovered again. After using both Excel and Python, Pivot Tables were easier to construct in Excel. In Python, it appears more difficult to separate each column by city. Python utlimately was just not as helpful for my particular dataset in this project and added additional steps that made me still use Excel for some steps. The graphs were easy to generate, however, using this software. Some visualizations formed by plotly are below: 
+
+
 ![](IR%20by%20City.png)
 ![](IR%20by%20Males.png)
 ![](IR%20by%20Race%20(Black).png)
